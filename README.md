@@ -1,7 +1,5 @@
-### Hi there 👋
-
-<!--
-**Rexorb/Rexorb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hello, I'm Roberto, but you can call me Rexorb
+### Olá, me chamo Roberto, mas pode me chamar de Rexorb
 
 Here are some ideas to get you started:
 
@@ -13,4 +11,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+<div align="center">
+  <a href="https://github.com/Rexorb">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rexorb&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rexorb&layout=compact&langs_count=7&theme=vision-friendly-dark"/>
+</div>
