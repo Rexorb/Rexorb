@@ -1,5 +1,5 @@
-### Hello, I'm Roberto, but you can call me Rexorb
-### Olá, me chamo Roberto, mas pode me chamar de Rexorb
+### Hello, I'm Roberto, currently IT student
+### Olá, me chamo Roberto, atualmente estudante na área de T.I. 
 
 
 🛠️ Perfil em desenvolvimento 🛠️
