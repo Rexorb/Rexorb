@@ -5,9 +5,6 @@
 
 <h3 align="center">💻 Estudante de TI | 🚀 Desenvolvedor em formação</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=5BCDEC&center=true&vCenter=true&width=435&lines=🛠️+Perfil+em+constante+desenvolvimento!;⚡+Aprendendo+novas+tecnologias" alt="Status" />
-</p>
 
 ## 👨‍💻 Sobre Mim
 - Estudante de Sistemas para Internet na FATEC Baixada Santista  
