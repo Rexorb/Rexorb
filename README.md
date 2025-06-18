@@ -68,7 +68,3 @@
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/roberto-henrique/)
 [![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:roberto.henriqsantos@outlook.com)
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Rexorb&color=blueviolet" alt="Profile views" />
-</p>
